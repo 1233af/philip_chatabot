@@ -1,9 +1,9 @@
 import requests
 
-page_id = "4f67c16e763542af98e5359f96ab5b4f"
+page_id = "4f6...ab5b4f"
 url = "https://api.notion.com/v1/pages/" + page_id
-database_id = '25565bb266d148feadddc82628054b21'
-TOKEN = 'secret_g1QaxRFznUeFyCoDGhddpXDOfjkiNoAV6YBwn2Kshpx'
+database_id = '25565bb26...628054b21'
+TOKEN = 'secret_g1Qa...NoAV6YBwn2Kshpx'
 
 headers = {
     "Notion-Version": "2022-02-22",
