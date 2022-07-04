@@ -1,8 +1,8 @@
 import requests
 from datetime import *
 
-database_id = '25565bb266d148feadddc82628054b21'
-TOKEN = 'secret_g1QaxRFznUeFyCoDGhddpXDOfjkiNoAV6YBwn2Kshpx'
+database_id = '25565bb266...8054b21'
+TOKEN = 'secret_g1Q...Bwn2Kshpx'
 
 
 def str_datetime(datetime):
